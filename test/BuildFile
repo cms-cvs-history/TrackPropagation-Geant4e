@@ -14,6 +14,7 @@
 <use name=DataFormats/MuonDetId>
 <use name=Foundation/PluginManager>
 <use name=Utilities/Timing>
+<use name=SimG4Core/GeometryProducer>
 <use name=SimG4Core/Geometry>
 <use name=SimG4Core/MagneticField>
 <use name=DetectorDescription/Core>
