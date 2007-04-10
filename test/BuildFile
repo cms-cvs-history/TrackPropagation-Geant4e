@@ -12,7 +12,7 @@
 <use name=Geometry/RPCGeometry>
 <use name=Geometry/CSCGeometry>
 <use name=DataFormats/MuonDetId>
-<use name=Foundation/PluginManager>
+<use name=FWCore/PluginManager>
 <use name=Utilities/Timing>
 <use name=SimG4Core/GeometryProducer>
 <use name=SimG4Core/Geometry>
