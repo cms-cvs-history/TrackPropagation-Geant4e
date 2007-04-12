@@ -20,7 +20,7 @@
 <use name=DetectorDescription/Core>
 
 <library file=Geant4ePropagatorAnalyzer.cc name=Geant4ePropagatorAnalyzer>
-<flags SEAL_PLUGIN_NAME="Geant4ePropagatorAnalyzer">
+<flags EDM_PLUGIN=1>
 </library>
 
 
